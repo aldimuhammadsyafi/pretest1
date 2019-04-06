@@ -1,0 +1,31 @@
+<resources>
+    //mainactivity//
+    <string name="app_name">PRETEST_IF2-10116065</string>
+    <string name="mulai">Mulai</string>
+    <string name="monitory_membantu_anda">Monitory Membantu Anda \n  Mengontrol Hp Anak</string>
+    //login//
+    <string name="todo">TODO</string>
+    <string name="kode_keluarga">Kode Keluarga</string>
+    <string name="ketikkan_kode_keluarga_yang_ayah_bunda_n_miliki_disini">Ketikkan kode keluarga yang ayah bunda   miliki disini</string>
+    <string name="a1b2c3">A1B2C3</string>
+    <string name="dengan_menekan_tombol_masuk_berarti_anda_menyetujui">Dengan menekan tombol masuk berarti Anda Menyetujui</string>
+    <string name="textview">TextView</string>
+    <string name="masuk">Masuk</string>
+    <string name="ketentuan">Ketentuan Pengguna</string>
+    <string name="dan">dan</string>
+    <string name="kebijakan">Kebijakan data</string>
+    <string name="kami">kami</string>
+    <string name="beli_kode_keluarga_disini">Beli Kode Keluarga Disini</string>
+    <string name="belum_punya_kode_keluarga">Belum Punya Kode Keluarga?</string>
+    \\blog\\
+    <string name="nama_panggilan"> Nama Panggilan Kamu</string>
+    <string name="Umur"> Umur Kamu</string>
+    <string name="contoh_nama">contoh:budi</string>
+    <string name="contoh_umur">contoh:12</string>
+    <string name="selanjutnya">Selanjutnya</string>
+
+    \\home\\
+    <string name="text"> Beres! Sekarang kamu \n udah bisa ngecek \n pengguna HP mu \n tiap hari buat bantu kamu \n ngatur waktu :)</string>
+    <string name="button">Oke</string>
+
+</resources>
